@@ -23,5 +23,10 @@ public class Login {
 	public void loginBondary() {
 		System.out.println("loginBondary executed");
 	}
+	
+	@Test
+	public void signin() {
+		System.out.println("signin executed");
+	}
 
 }
