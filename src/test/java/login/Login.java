@@ -28,7 +28,8 @@ public class Login {
 
 	public void signin() {
 		System.out.println("signin executed");
-    
+	}
+	
   @Test
 	public void logOut() {
 		System.out.println("Executing logOut test case"); // my method
