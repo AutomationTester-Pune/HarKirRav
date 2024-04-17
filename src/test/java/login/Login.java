@@ -28,5 +28,8 @@ public class Login {
 	public void logOut() {
 		System.out.println("Executing logOut test case"); // my method
 	}
-
+	
+	public int doAdditiona(int x, int y) {
+		return x + y;
+	}
 }
