@@ -26,7 +26,7 @@ public class Login {
 	
 	@Test
 	public void logOut() {
-		System.out.println("Executing logOut test case");
+		System.out.println("Executing logOut test case"); // my method
 	}
 
 }
