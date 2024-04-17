@@ -13,6 +13,11 @@ public class Login {
 	public void loginNegative() {
 		System.out.println("loginNegative executed");
 	}
+	
+	@Test
+	public void loginStucked() {
+		System.out.println("loginNegative is  stcuked");
+	}
 
 	@Test
 	public void loginBondary() {
