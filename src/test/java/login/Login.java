@@ -5,8 +5,8 @@ import org.testng.annotations.Test;
 public class Login {
 	
 	@Test
-	public void loginPositive() {
-		System.out.println("loginPositive executed");
+	public void loginPositiveKiran() {
+		System.out.println("loginPositiveKiran executed");
 	}
 	
 	@Test
