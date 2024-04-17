@@ -9,6 +9,6 @@ public class MyTest {
 	
 	
 	public void testMethod() {
-		System.out.println("Hi there !!");
+		System.out.println("Kiran here !!");
 	}
 }
