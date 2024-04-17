@@ -18,5 +18,10 @@ public class Login {
 	public void loginBondary() {
 		System.out.println("loginBondary executed");
 	}
+	
+	@Test
+	public void logOut() {
+		System.out.println("Executing logOut test case");
+	}
 
 }
