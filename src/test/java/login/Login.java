@@ -14,4 +14,9 @@ public class Login {
 		System.out.println("loginNegative executed");
 	}
 
+	@Test
+	public void loginBondary() {
+		System.out.println("loginBondary executed");
+	}
+
 }
