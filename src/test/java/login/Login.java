@@ -19,4 +19,9 @@ public class Login {
 		System.out.println("loginNegative is  stcuked");
 	}
 
+	@Test
+	public void loginBondary() {
+		System.out.println("loginBondary executed");
+	}
+
 }
