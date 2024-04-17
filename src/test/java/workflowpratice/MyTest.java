@@ -6,5 +6,9 @@ public class MyTest {
 		// TODO Auto-generated method stub
 
 	}
-
+	
+	
+	public void testMethod() {
+		System.out.println("Hi there !!");
+	}
 }
