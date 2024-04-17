@@ -3,6 +3,11 @@ package login;
 import org.testng.annotations.Test;
 
 public class Login {
+
+	public int subtract(int x, int y) {
+		return x - y;
+
+	}
 	
 	@Test
 	public void loginPositivegrk31() {
